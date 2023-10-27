@@ -56,39 +56,39 @@
 
 ## Semelhanças e Divergências:
 
-  *  Semelhanças:
+  ###  Semelhanças:
 
-  ### 1. Registro de Conta:  
+  #### 1. Registro de Conta:  
   *  Todos os três sites oferecem uma opção de cadastro para os usuários. Eles solicitaram informações básicas como nome completo, e-mail, número de telefone e, em alguns casos, CPF.
 
-  ### 2. Opções de contato:  
+  #### 2. Opções de contato:  
   *  Os sites pedem informações de contato, como nome completo e número de telefone, para facilitar a comunicação com o usuário.
 
-  ### 3. Endereço:  
+  #### 3. Endereço:  
   *  Todos os sites requerem a inserção de informações de endereço para entrega ou cobrança de produtos, incluindo o CEP.
 
-  ### 4. Métodos de Pagamento:  
+  #### 4. Métodos de Pagamento:  
   *  Eles oferecem diversas opções de pagamento para a conveniência do cliente, incluindo cartões de crédito, PIX e boleto bancário.
 
-  ### 5. Finalização do Pedido:  
+  #### 5. Finalização do Pedido:  
   *  Todos têm uma etapa final para confirmar e concluir a compra.
 
 
- * Divergências:
+  ### Divergências:
 
-  ### 1. Especialidade do Site:    
+  #### 1. Especialidade do Site:    
   *  O Shopee é um marketplace de produtos diversos, o Magazine Luiza foca principalmente em produtos eletrônicos e eletrodomésticos, enquanto o iFood é voltado para pedidos de comida.  
 
-  ### 2. Complementos Opcionais:      
+  #### 2. Complementos Opcionais:      
   * O iFood e Shopee possuem uma etapa específica para adição de cupom de desconto, algo que a Magazine Luiza não tem.
 
-  ### 3. Forma de Registro:        
+  #### 3. Forma de Registro:        
   * O Magazine Luiza oferece a opção de escolher entre criar uma nova conta ou fazer login como cliente existente já na etapa inicial, enquanto o iFood e o Shopee direcionam mais claramente para o cadastro.
 
-  ### 4. Tipos de Mensagens do Magazine Luiza:         
+  #### 4. Tipos de Mensagens do Magazine Luiza:         
   * O Magazine Luiza oferece uma etapa para o usuário escolher quais canais e tipos de mensagens ele deseja receber, o que não é uma característica em outros sites.
 
-  ### 5. Especialização de Produto no iFood:           
+  #### 5. Especialização de Produto no iFood:           
   * Enquanto o Shopee e o Magazine Luiza são marketplaces de produtos financeiros, o iFood é uma plataforma para pedidos de comida, não envolvendo produtos financeiros.
 
   * Essas são algumas das semelhanças e divergências notáveis ​​entre os três sites em termos de processo de cadastro e compra. Cada um deles é adaptado para atender às necessidades específicas de sua especialização no mercado.
