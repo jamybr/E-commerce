@@ -15,13 +15,14 @@
 
  * esse trabalho tem o intuito de fazer uma pesquisa sobre os diversos sites de E-Commerce e identificar como é feito o cadastro do usuário para realizar uma compra em cada site, anotando as semelhanças e divergências entre os formulários de cadastro. Essa pesquisa foi feita pelo computador de modo manual, a fim de ditar todos os passos para uma compra on-line nos sites a seguir:
 
-## Pesquisa
+## 💡Pesquisa
 
  ### 1. Shopee:  
 
  *	Entre ou Cadastre-se: Número de telefone/Nome do usuário/E-Mail  
  *	Contato: nome completo e número de telefone;  
- *  Endereço: CEP, número da casa e ponto de referência;  
+ * Endereço: CEP, número da casa e ponto de referência;
+ * Adicionar cupom (não opcional); 
  *	Método de pagamento: ShopeePay, Boleto Bancário, Cartão de Crédito ou PIX;  
  *	CPF;  
  *	Concluir pedido/pagamento.  
@@ -51,7 +52,46 @@
   *  Terminar cadastro para realizar o pagamento: E-mail ou facebook;  
   *  Adicionar número de celular para a confirmação do código;  
   *  Escolher forma e pagamento: pagar pelo site ou na entrega  
-  *  Confirmar pedido.  
+  *  Confirmar pedido.
+
+## Semelhanças e Divergências:
+
+  *  Semelhanças:
+
+  ### 1. Registro de Conta:  
+  *  Todos os três sites oferecem uma opção de cadastro para os usuários. Eles solicitaram informações básicas como nome completo, e-mail, número de telefone e, em alguns casos, CPF.
+
+  ### 2. Opções de contato:  
+  *  Os sites pedem informações de contato, como nome completo e número de telefone, para facilitar a comunicação com o usuário.
+
+  ### 3. Endereço:  
+  *  Todos os sites requerem a inserção de informações de endereço para entrega ou cobrança de produtos, incluindo o CEP.
+
+  ### 4. Métodos de Pagamento:  
+  *  Eles oferecem diversas opções de pagamento para a conveniência do cliente, incluindo cartões de crédito, PIX e boleto bancário.
+
+  ### 5. Finalização do Pedido:  
+  *  Todos têm uma etapa final para confirmar e concluir a compra.
+
+
+ * Divergências:
+
+  ### 1. Especialidade do Site:    
+  *  O Shopee é um marketplace de produtos diversos, o Magazine Luiza foca principalmente em produtos eletrônicos e eletrodomésticos, enquanto o iFood é voltado para pedidos de comida.  
+
+  ### 2. Complementos Opcionais:      
+  * O iFood e Shopee possuem uma etapa específica para adição de cupom de desconto, algo que a Magazine Luiza não tem.
+
+  ### 3. Forma de Registro:        
+  * O Magazine Luiza oferece a opção de escolher entre criar uma nova conta ou fazer login como cliente existente já na etapa inicial, enquanto o iFood e o Shopee direcionam mais claramente para o cadastro.
+
+  ### 4. Tipos de Mensagens do Magazine Luiza:         
+  * O Magazine Luiza oferece uma etapa para o usuário escolher quais canais e tipos de mensagens ele deseja receber, o que não é uma característica em outros sites.
+
+  ### 5. Especialização de Produto no iFood:           
+  * Enquanto o Shopee e o Magazine Luiza são marketplaces de produtos financeiros, o iFood é uma plataforma para pedidos de comida, não envolvendo produtos financeiros.
+
+  * Essas são algumas das semelhanças e divergências notáveis ​​entre os três sites em termos de processo de cadastro e compra. Cada um deles é adaptado para atender às necessidades específicas de sua especialização no mercado.
 
 ## 🔛Funcionalidades  
 
@@ -71,7 +111,7 @@
 ## ⚙️Composição do Projeto  
 
  * `index.html` : Contém a estrutura HTML do formulário de cadastro de endereço do site.  
- * `controller.js` : 
+ * `controller.js` : Script JavaScript para lidar com a consulta de CEP e preenchimento automático dos campos de endereço.
  * `README.md` : Para a construção da documentação no GitHub.
 
  ## ⌨️Tecnologias Utilizadas
