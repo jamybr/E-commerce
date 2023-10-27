@@ -98,7 +98,7 @@
 ## 🔛Funcionalidades  
 
   ### 1. Cadastro de Endereço:  
-  * O formulário permite aos usuários inserirem as seguintes informações de endereço:  
+  O formulário permite aos usuários inserirem as seguintes informações de endereço:  
    
   * Nome   
   * Email  
@@ -117,8 +117,7 @@
  * `README.md` : Para a construção da documentação no GitHub.
 
  ## ⌨️Tecnologias Utilizadas
-
- * Css  
+  
  * HTML  
  * GitHub  
  * BootStrap (versão 5.3.1)  
