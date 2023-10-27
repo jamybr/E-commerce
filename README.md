@@ -91,7 +91,7 @@
   #### 5. Especialização de Produto no iFood:           
   * Enquanto o Shopee e o Magazine Luiza são marketplaces de produtos financeiros, o iFood é uma plataforma para pedidos de comida, não envolvendo produtos financeiros.
 
-  ### Essas são algumas das semelhanças e divergências notáveis ​​entre os três sites em termos de processo de cadastro e compra. Cada um deles é adaptado para atender às necessidades específicas de sua especialização no mercado.
+  Essas são algumas das semelhanças e divergências notáveis ​​entre os três sites em termos de processo de cadastro e compra. Cada um deles é adaptado para atender às necessidades específicas de sua especialização no mercado.
 
 ## 🔛Funcionalidades  
 
