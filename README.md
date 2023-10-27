@@ -2,6 +2,8 @@
 
 [Formulário de Cadastro de E-commerce](#formul%C3%A1rio-de-cadastro-de-e-commerce)  
 [Descrição](#descri%C3%A7%C3%A3o)  
+[Pesquisa]()  
+[Semelhanças e Divergências]()
 [Funcionalidades](#funcionalidades)    
 [Composição do Projeto](#%EF%B8%8Fcomposi%C3%A7%C3%A3o-do-projeto)   
 [Tecnologias Utilizadas](#%EF%B8%8Ftecnologias-utilizadas)  
