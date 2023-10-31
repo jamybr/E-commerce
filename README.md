@@ -118,8 +118,10 @@
 
  ## ⌨️Tecnologias Utilizadas
   
- * HTML  
- * GitHub  
+ * Git
+ * HTML   
+ * GitHub
+ * Javascrip 
  * BootStrap (versão 5.3.1)  
 
  ## 📑Fontes consultadas  
