@@ -105,7 +105,8 @@
   * Senha  
   * Endereço  
   * Cidade  
-  * Estado  
+  * Estado
+  * Bairro  
   * Sexo  
   * CEP  
   * CPF  
