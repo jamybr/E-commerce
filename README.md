@@ -17,7 +17,6 @@
 # 📌Formulário de Cadastro de E-commerce    
 
 ![capa do projeto](capa.png)  
->>>>>>> 410999173648a0eafa06b2bfe52cee4fad53a523
 
 <img src="img-1.png">
 
