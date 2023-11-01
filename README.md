@@ -13,7 +13,7 @@
 
 # Formulário de Cadastro de E-commerce
 
-![capa.png]()
+![capa do projeto](capa.png)
 
 # 📌Formulário de Cadastro de E-commerce
 
