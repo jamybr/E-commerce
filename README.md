@@ -15,7 +15,7 @@
 
 ## 📝Descrição  
 
- * esse trabalho tem o intuito de fazer uma pesquisa sobre os diversos sites de E-Commerce e identificar como é feito o cadastro do usuário para realizar uma compra em cada site, anotando as semelhanças e divergências entre os formulários de cadastro. Essa pesquisa foi feita pelo computador de modo manual, a fim de ditar todos os passos para uma compra on-line nos sites a seguir:
+ * Esse trabalho tem o intuito de fazer uma pesquisa sobre três sites de E-Commerce da minha preferência e identificar como é feito o cadastro do usuário para realizar uma compra em cada site, anotando as semelhanças e divergências entre os formulários de cadastro e assim, colocando algumas informações relevantes da pesquisa ao meu projeto. Essa pesquisa foi feita pelo computador de modo manual, a fim de ditar todos os passos para uma compra on-line nos sites a seguir:
 
 ## 💡Pesquisa
 
