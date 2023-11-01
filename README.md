@@ -11,6 +11,10 @@
 [Colaboradores](#colaboradores)  
 [Autores](#%EF%B8%8Fautores)  
 
+# Formulário de Cadastro de E-commerce
+
+![capa.png]()
+
 # 📌Formulário de Cadastro de E-commerce
 
 ## 📝Descrição  
