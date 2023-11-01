@@ -11,9 +11,9 @@
 [Colaboradores](#colaboradores)  
 [Autores](#%EF%B8%8Fautores)  
 
-<<<<<<< HEAD
+
 # 📌Formulário de Cadastro de E-commerce
-=======
+
 # 📌Formulário de Cadastro de E-commerce    
 
 ![capa do projeto](capa.png)  
